@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="98" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="500" key="dialogHeight"/>
+		<item value="800" key="dialogWidth"/>
+		<list key="textEntries">
+			<item value="1"/>
+		</list>
+		<list key="orderedElements">
+			<item value="org.eclipse.jdt.ui.PackageExplorer"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+		</list>
+		<list key="textArray">
+			<item value="ex"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/mohammadsharif/Documents/workspace/CSE 21_11/src/tests"/>
+			<item value="/Users/mohammadsharif/Documents/workspace/CSE 21_11/src/recursion"/>
+			<item value="/Users/mohammadsharif/Documents/workspace/CSE 21_11"/>
+			<item value="/Users/mohammadsharif/Documents/workspace/Project 2/src"/>
+			<item value="/Users/mohammadsharif/Documents/Lab 21_8/src"/>
+			<item value="/Users/mohammadsharif/Documents/workspace/Lab21_6/src"/>
+			<item value="/Users/mohammadsharif/Documents/workspace/Lab 21_6"/>
+			<item value="/Users/mohammadsharif/Downloads/lab_21_7/src"/>
+			<item value="/Users/mohammadsharif/Downloads/Lab 21_6/src"/>
+			<item value="/Users/mohammadsharif/Downloads"/>
+			<item value="/Users/mohammadsharif/Downloads/lab1/lab1"/>
+			<item value="/Users/mohammadsharif/Documents/workspace/Lab3/src"/>
+		</list>
+	</section>
+</section>
